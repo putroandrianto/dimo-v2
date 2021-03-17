@@ -1,22 +1,19 @@
-# theme.toml template for a Hugo theme
-# See https://github.com/gohugoio/hugoThemes#themetoml for an example
-
-name = "Hugo Lime"
+name = "Digital Movement Indonesia"
 license = "MIT"
 licenselink = "https://github.com/uicardiodev/hugo-lime/blob/master/LICENSE.md"
 description = ""
-homepage = "http://uicard.io/products/green-paper"
-tags = ["minimal","blog","services","responsive","bootstrap","uicardio","illustrations"]
+homepage = "http://digitalmovement.id/"
+tags = ["minimal","blog","services","responsive","bootstrap","dimo","dmi","digitalmovementindonesia","illustrations"]
 features = ["cover","pricing","faq","parteners","blog","work","portfolio","contact","illustrations"]
 min_version = "0.47.1"
 
 [author]
-  name = "UICardio"
-  homepage = "https://uicard.io/products/sodium-hugo-theme"
+  name = "dimo-theme-v2"
+  homepage = "https://digitalmovement.id/"
 
 [developer]
-	name = "Arvind"
-	homepage = "https://heyarviind.com"
+	name = "Andria Putro"
+	homepage = "https://github.com/putroandrianto"
 
 # If porting an existing theme
 [original]
