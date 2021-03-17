@@ -1,6 +1,7 @@
 {
 	"components" : [
 		"cover",
+		"pricing",
 		"features",
 		"team",
 		"clients",
