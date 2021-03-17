@@ -1,21 +1,21 @@
 {
   "title" : "Our Services",
-  "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse venenatis mollis nisi, a tempor mi fermentum eget. Duis sed pulvinar justo.",
+  "description" : "We will provide your business in",
   "content" : [
     {
-      "icon" : "bell",
-      "title" : "Creative Design",
-      "description" : "Our proven creative website design services speak of your brand, thus establishing an instant connection with your customers."
+      "icon" : "cubes",
+      "title" : "Internet of Things (IoT))",
+      "description" : "Ready to create IoT device creation that unite objects and sensors as communication data under web-based and mobile devices."
     },
     {
       "icon" : "code",
-      "title" : "Web & Mobile Development",
-      "description" : "We help you craft a functional and high-performing apps and websites through our effective mobile and web development services."
+      "title" : "Web & Mobile Apps",
+      "description" : "Ready to innovate your sophisticated company profile and problem-solver based on web and mobile app for supporting your businesses."
     },
     {
-      "icon" : "",
-      "title" : "Digital Marketing",
-      "description" : "Enhance your reach and make more customers fall for you with our well-planned and strategized marketing solutions."
+      "icon" : "area-chart",
+      "title" : "Data Analytic",
+      "description" : "Ready to analyze your big-data needs based on R and Python for visualizing your business and decide your decisions."
     }
   ]
 }
