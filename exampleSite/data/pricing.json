@@ -1,9 +1,9 @@
 {
-  "title" : "Pricing",
-  "description" : "Pricing subtitle",
+  "title" : "How We Works?",
+  "description" : "let's get to know how we tackle and work on your project",
   "content" : [
     {
-      "title" : "Starter",
+      "title" : "Discus",
       "price" : "$30",
       "features" : [
         "No setup, monthly, or hidden fees",
@@ -16,7 +16,7 @@
       }
     },
     {
-      "title" : "Advance",
+      "title" : "Plan",
       "price" : "$90",
       "features" : [
         "All features of Starter Pack",
@@ -28,6 +28,10 @@
         "text" : "Contact",
         "href" : "/#contact"
       }
+    },
+    {
+      "title" : "Start",
+      "description" : "After the discussion and planning, we start working on the agreed project"
     }
   ]
 }
