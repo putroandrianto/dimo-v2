@@ -1,6 +1,6 @@
 {
-  "title" : "Introduce",
-  "description" : "Our Best Team",
+  "title" : "Meet Our Team",
+  "description" : "",
   "members" : [
     {
       "name" : "Naufal Adi Satrio",
@@ -43,8 +43,8 @@
       }
     },
     {
-      "name" : "M. Rizal Fernanda",
-      "description" : "UI/UX Designer",
+      "name" : "Andrianto Cahyono Putro",
+      "description" : "Front-End Developer",
       "avatar" : "john.jpeg",
       "social" : {
         "linkedin" : "https://linkedin.com/damn",
@@ -53,8 +53,8 @@
       }
     },
     {
-      "name" : "M. Rizal Fernanda",
-      "description" : "UI/UX Designer",
+      "name" : "Sena Aji Putra",
+      "description" : "Back-End Developer",
       "avatar" : "john.jpeg",
       "social" : {
         "linkedin" : "https://linkedin.com/damn",
