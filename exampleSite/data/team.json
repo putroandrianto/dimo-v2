@@ -1,65 +1,65 @@
 {
-  "title" : "Meet Our Team",
-  "description" : "",
+  "title" : "Our Expert People",
+  "description" : "The modern world is in a continuous movement and people everywhere are looking for quick.",
   "members" : [
     {
       "name" : "Naufal Adi Satrio",
       "description" : "CEO",
-      "avatar" : "sarita.jpeg",
+      "avatar" : "naufal.jpeg",
       "social" : {
-        "facebook" : "https://facebook.com/damn",
-        "instagram" : "https://instagram.com/damn",
-        "linkedin" : "https://linkedin.com/add/damn"
+        "facebook" : "https://facebook.com/",
+        "instagram" : "https://instagram.com/",
+        "linkedin" : "https://linkedin.com/add/"
       }
     },
     {
       "name" : "Alfiandi Imam",
       "description" : "CFO",
-      "avatar" : "veronica.jpeg",
+      "avatar" : "alfiandi.jpeg",
       "social" : {
-        "twitter" : "https://twitter.com/damn",
-        "instagram" : "https://instagram.com/damn",
-        "dribbble" : "https://dribbble.com/add/damn"
+        "facebook" : "https://facebook.com/",
+        "instagram" : "https://instagram.com/",
+        "linkedin" : "https://linkedin.com/add/"
       }
     },
     {
       "name" : "Felias Sebastian",
       "description" : "COO",
-      "avatar" : "john.jpeg",
+      "avatar" : "tian.jpeg",
       "social" : {
-        "linkedin" : "https://linkedin.com/damn",
-        "instagram" : "https://instagram.com/damn",
-        "medium" : "https://medium.com/add/damn"
+        "facebook" : "https://facebook.com/",
+        "instagram" : "https://instagram.com/",
+        "linkedin" : "https://linkedin.com/add/"
       }
     },
     {
       "name" : "M. Rizal Fernanda",
       "description" : "UI/UX Designer",
-      "avatar" : "john.jpeg",
+      "avatar" : "ical.jpeg",
       "social" : {
-        "linkedin" : "https://linkedin.com/damn",
-        "instagram" : "https://instagram.com/damn",
-        "medium" : "https://medium.com/add/damn"
+        "facebook" : "https://facebook.com/",
+        "instagram" : "https://instagram.com/",
+        "linkedin" : "https://linkedin.com/add/"
       }
     },
     {
       "name" : "Andrianto Cahyono Putro",
       "description" : "Front-End Developer",
-      "avatar" : "john.jpeg",
+      "avatar" : "andri.jpeg",
       "social" : {
-        "linkedin" : "https://linkedin.com/damn",
-        "instagram" : "https://instagram.com/damn",
-        "medium" : "https://medium.com/add/damn"
+        "facebook" : "https://facebook.com/",
+        "instagram" : "https://instagram.com/",
+        "linkedin" : "https://linkedin.com/add/"
       }
     },
     {
       "name" : "Sena Aji Putra",
       "description" : "Back-End Developer",
-      "avatar" : "john.jpeg",
+      "avatar" : "sena.jpeg",
       "social" : {
-        "linkedin" : "https://linkedin.com/damn",
-        "instagram" : "https://instagram.com/damn",
-        "medium" : "https://medium.com/add/damn"
+        "facebook" : "https://facebook.com/",
+        "instagram" : "https://instagram.com/",
+        "linkedin" : "https://linkedin.com/add/"
       }
     }
   ]
