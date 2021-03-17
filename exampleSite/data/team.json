@@ -1,9 +1,9 @@
 {
-  "title" : "Team",
-  "description" : "Little team description here",
+  "title" : "Introduce",
+  "description" : "Our Best Team",
   "members" : [
     {
-      "name" : "Sarita",
+      "name" : "Naufal Adi Satrio",
       "description" : "CEO",
       "avatar" : "sarita.jpeg",
       "social" : {
@@ -13,8 +13,8 @@
       }
     },
     {
-      "name" : "Veronica",
-      "description" : "Graphics Designer",
+      "name" : "Alfiandi Imam",
+      "description" : "CFO",
       "avatar" : "veronica.jpeg",
       "social" : {
         "twitter" : "https://twitter.com/damn",
@@ -23,8 +23,18 @@
       }
     },
     {
-      "name" : "John",
-      "description" : "Graphics Designer",
+      "name" : "Felias Sebastian",
+      "description" : "COO",
+      "avatar" : "john.jpeg",
+      "social" : {
+        "linkedin" : "https://linkedin.com/damn",
+        "instagram" : "https://instagram.com/damn",
+        "medium" : "https://medium.com/add/damn"
+      }
+    },
+    {
+      "name" : "M. Rizal Fernanda",
+      "description" : "UI/UX Designer",
       "avatar" : "john.jpeg",
       "social" : {
         "linkedin" : "https://linkedin.com/damn",
