@@ -41,6 +41,26 @@
         "instagram" : "https://instagram.com/damn",
         "medium" : "https://medium.com/add/damn"
       }
+    },
+    {
+      "name" : "M. Rizal Fernanda",
+      "description" : "UI/UX Designer",
+      "avatar" : "john.jpeg",
+      "social" : {
+        "linkedin" : "https://linkedin.com/damn",
+        "instagram" : "https://instagram.com/damn",
+        "medium" : "https://medium.com/add/damn"
+      }
+    },
+    {
+      "name" : "M. Rizal Fernanda",
+      "description" : "UI/UX Designer",
+      "avatar" : "john.jpeg",
+      "social" : {
+        "linkedin" : "https://linkedin.com/damn",
+        "instagram" : "https://instagram.com/damn",
+        "medium" : "https://medium.com/add/damn"
+      }
     }
   ]
 }
