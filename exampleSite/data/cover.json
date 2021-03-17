@@ -1,11 +1,11 @@
 {
-	"title" : "Quality code for your ideas",
-	"description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec nulla ac urna suscipit iaculis sit amet ac neque. Cras volutpat scelerisque pretium. Mauris cursus ultricies pulvinar.",
+	"title" : "Digital Movement Indonesia",
+	"description" : "Digital start-up company located in the city of Surabaya, Digital Movement Indonesia or Dimo focuses on new trends in innovation technology and IT solutions to meet your needs.",
 	"illustration" : "freelancing.svg",
-	"alt_text" : "Or see why we worth it",
+	"alt_text" : "",
 	"alt_href" : "#features",
 	"button" : {
-		"text" : "Contact",
+		"text" : "Let's Talk",
 		"href" : "#contact"
 	}
 }
