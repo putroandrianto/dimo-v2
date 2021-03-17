@@ -31,7 +31,14 @@
     },
     {
       "title" : "Start",
-      "features" : "After the discussion and planning, we start working on the agreed project"
+      "price" : "",
+      "features" : [ 
+        "After the discussion and planning, we start working on the agreed project"
+      ],
+      "button" : {
+        "text" : "",
+        "href" : ""
+      }
     }
   ]
 }
